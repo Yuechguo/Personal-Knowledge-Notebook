@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "8d2c53e2b858c1cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a304484638254b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "151891df85f3c510",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daliy-notes/2026-06-14 semianalysis agentic task run up/2026-06-29 SA agentic task run up.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-06-29 SA agentic task run up"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1db7c0966c12ab53",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5e3b34550ae011e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32ed7778b9e91698",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "551c43a3ae27cdb0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "1bb13ada3d4bb52b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "193e34ede309fdd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2926550456ab976",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcda8ed5a31ea1b5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daliy-notes/2026-06-14 semianalysis agentic task run up/2026-06-29 SA agentic task run up.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2026-06-29 SA agentic task run up 的反向链接列表"
+            }
+          },
+          {
+            "id": "54329a22c57ceed7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daliy-notes/2026-06-14 semianalysis agentic task run up/2026-06-29 SA agentic task run up.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2026-06-29 SA agentic task run up 的出链列表"
+            }
+          },
+          {
+            "id": "5a21a816bc927b5b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "b7e74a929ba835fd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "e62b55cc207af6b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daliy-notes/2026-06-14 semianalysis agentic task run up/2026-06-29 SA agentic task run up.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2026-06-29 SA agentic task run up 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "151891df85f3c510",
+  "lastOpenFiles": [
+    "Daliy-notes/2026-06-14 semianalysis agentic task run up/run_aiperf_sa_agentic.sh",
+    "Daliy-notes/2026-06-14 semianalysis agentic task run up/run_atomesh.sh",
+    "Daliy-notes/2026-06-14 semianalysis agentic task run up/run_mi355_atom.sh",
+    "Workspace/Atomesh work plan for June/Atomesh work plan for June.md",
+    "Workspace/Atomesh work plan for June"
+  ]
+}
